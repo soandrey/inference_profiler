@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">InferenceBenchmark</string>
+    <string name="press_button_to_start_execution">Press button to start execution</string>
+    <string name="start">Start</string>
+</resources>
